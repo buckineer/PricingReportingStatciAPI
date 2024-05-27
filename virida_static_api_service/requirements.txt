@@ -1,0 +1,11 @@
+fastapi==0.61.1
+uvicorn
+pydantic
+sqlalchemy
+pymysql
+cryptography
+pyjwt
+alembic
+requests
+numpy
+aiohttp
